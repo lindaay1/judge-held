@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Entry: "The Evening Saved You a Seat" — 248 code points, deterministic.
 """Write the entry text to $MAKEFUN_OUTPUT_DIR/entry.txt (or /output/entry.txt). No deps, no network, deterministic."""
 import os
 
